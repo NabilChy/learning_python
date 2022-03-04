@@ -1,0 +1,29 @@
+fstrings
+strip();lstrip();rstrip(); To remove whitespace from socket import create_server
+from the right and/or left of a string
+
+All caps for constants eg MAX_CONNECTIONS = 5000
+
+range(1, 5) prints 1 2 3 4
+
+Tuples are technically defined by the presence of a comma; the parentheses make them
+look neater and more readable. If you want to define a tuple with one element, you
+need to include a trailing comma:
+
+For dictionaries, specifically, you can use the get() method to
+set a default value that will be returned if the requested key doesn’t exist.
+
+items(): Use when needed to loop through key-value pair.
+keys(): Use when only need to access the keys.
+set(): A set is a collection in which each item must be unique.
+input() : For user interaction STRING only.
+int() : string to integer
+
+docstring: are enclosed in triple quotes, which python looks for whne it generates 
+documentation for the functions in your programs  .
+
+single * in a function parameter creates a tuple. example, *args creates
+a tuple called args.
+
+Double * in a function parameter creates a dictionary. example, **args
+creates a dictionary called args.

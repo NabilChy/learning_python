@@ -1,0 +1,4 @@
+In Python you can make loops.
+In Python you can kill aliens.
+In Python you can create class.
+In Python you can define functions.
